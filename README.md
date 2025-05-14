@@ -6,14 +6,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- GitHub Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-snake.svg" />
-  </picture>
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+
+###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deneshkar&label=Profile%20views&color=0e75b6&style=flat" alt="Deneshkar" />
