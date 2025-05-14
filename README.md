@@ -2,17 +2,6 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <!-- Divider -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
-</div>
-
-###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deneshkar&label=Profile%20views&color=0e75b6&style=flat" alt="Deneshkar" />
