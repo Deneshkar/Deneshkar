@@ -89,7 +89,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+<!-- Git State -->
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Deneshkar&theme=dark&show_icons=true&count_private=true" alt="Deneshkar"/></td>
