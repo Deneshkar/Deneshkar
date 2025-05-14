@@ -2,6 +2,15 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <!-- Divider -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deneshkar&label=Profile%20views&color=0e75b6&style=flat" alt="Deneshkar" />
