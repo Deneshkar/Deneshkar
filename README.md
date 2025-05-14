@@ -93,7 +93,12 @@
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Deneshkar&theme=dark&show_icons=true&count_private=true" alt="Deneshkar"/></td>
-    <td><img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=false" alt="Deneshkar" /></td>
+   <table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Deneshkar&theme=dark&show_icons=true&count_private=true" alt="Deneshkar"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Deneshkar&theme=dark&hide_border=false" alt="Deneshkar" /></td>
+  </tr>
+</table>
   </tr>
 </table>
 
