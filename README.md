@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VwNm82M2szb3Y1djFwb2hoM2JmanJjNDk4ZzJ6OHpnZTR6dDFlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif]/>
 </div>
 
 ###
