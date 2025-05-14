@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <!-- Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
+###
 
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
