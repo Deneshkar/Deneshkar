@@ -1,35 +1,45 @@
 <h1 align="center">Hi 👋, I'm Deneshkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+%7C+MERN+Stack;Building+Real+World+Applications&center=true&width=550&height=45">
 </p>
 
 <h3 align="center">🚀 Software Engineer from Sri Lanka 🇱🇰</h3>
+
+<p align="center">
+  Passionate about building modern, scalable, and user-friendly applications.
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
 ```bash
-> whoami
+> name
 Deneshkar
 
 > role
-Full-Stack Developer (MERN)
+Software Engineer / Full-Stack Developer
+
+> frontend
+React, Vite, Tailwind CSS, JavaScript
+
+> backend
+Spring Boot, Node.js, Express.js
+
+> databases
+MySQL, MongoDB, MongoDB Atlas
 
 > focus
-Building real-world scalable applications
+Building real-world full-stack applications
 
 > status
-Open to Internships (2026)
-
-> location
-Sri Lanka 🇱🇰
+Actively improving skills & building portfolio projects
 ```
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 ### ⚡ Frontend
 
@@ -40,19 +50,19 @@ Sri Lanka 🇱🇰
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔐 Tools & Auth
+### 🔐 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
@@ -62,60 +72,102 @@ Sri Lanka 🇱🇰
 ### 🔹 TaskFlow – Smart Task Management System
 
 ```yaml
-Tech Stack:
-  - React + Vite
-  - Node.js + Express
-  - MongoDB + Mongoose
-  - JWT Authentication
+Project Type: Full-Stack Web Application
 
-Features:
-  - User Authentication (Login/Register)
-  - Task CRUD Operations
-  - Priority & Status Filtering
+Frontend:
+  - React
+  - Vite
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB
+
+Core Features:
+  - User Authentication (JWT + bcrypt)
+  - Task CRUD (Create, Read, Update, Delete)
+  - Task Status & Priority Filtering
   - Protected Routes
-  - Responsive UI (Tailwind CSS)
+  - REST API Integration
+  - Responsive Modern UI
 ```
-
-👉 https://github.com/Deneshkar
 
 ---
 
-### 🔹 Food Order System
+### 🔹 Food Order Management System
 
 ```yaml
-Tech Stack:
-  - MERN Stack / MySQL (Hybrid)
+Project Type: Full-Stack Food Ordering Application
 
-Features:
-  - User Management System
-  - Order & Cart System
+Frontend:
+  - React / React Native (Expo)
+
+Backend:
+  - Node.js + Express.js
+  
+
+Database:
+  - MongoDB Atlas
+
+Modules:
+  - User Management
+  - Menu Management
+  - Category Management
+  - Order Management
+  - Cart System
+  - Review & Rating System
+  - Payment Integration
   - Admin Dashboard
-  - Backend API Integration
+
+Key Features:
+  - JWT Authentication
+  - RESTful APIs
+  - Role-based Access (Admin/User)
+  - Real-time Data Handling
+  - Mobile & Web Support
 ```
 
-👉 https://github.com/Deneshkar
+---
+
+## 📦 Other Knowledge & Experience
+
+```text
+• REST API Development
+• MVC Architecture
+• Authentication & Authorization
+• Database Schema Design
+• Error Handling & Validation (Joi)
+• Axios API Integration
+• Git Version Control
+• Debugging & Problem Solving
+```
 
 ---
 
 ## 📊 Developer Mindset
 
 ```text
-✔ Clean Code Enthusiast
-✔ Problem Solver
-✔ UI/UX Focused
-✔ Backend Logic Builder
-✔ Always Improving 🚀
+✔ Clean & Maintainable Code
+✔ Scalable Backend Design
+✔ Modern UI/UX Thinking
+✔ Real-world Project Focus
+✔ Continuous Learning
+✔ Strong Debugging Skills
 ```
 
 ---
 
-## 🧩 Current Focus
+## 🎯 Current Focus
 
 ```text
-→ Advanced MERN Stack
-→ System Design Basics
-→ Building Portfolio Projects
-→ Improving UI/UX
+→ Advanced Spring Boot Development
+→ MERN Stack Optimization
+→ System Design Fundamentals
+→ Building Portfolio-Level Projects
+→ Improving UI/UX Design
 ```
 
 ---
@@ -133,8 +185,8 @@ Features:
 ## ⚡ Fun Fact
 
 ```text
-I don’t just write code…
-I build experiences 🚀
+I don't just build projects...
+I build systems that solve real-world problems 🚀
 ```
 
 ---
