@@ -42,8 +42,6 @@
 
 ## 〔 01 〕 **ABOUT ME**
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&text_color=a78bfa&bg_color=0d1117"/>
-
 ```yaml
 identity:
   name       : Deneshkar
@@ -61,8 +59,6 @@ currently:
   building   : Portfolio-level real-world projects
   improving  : UI/UX + Backend architecture
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -108,15 +104,29 @@ currently:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&hide_border=false&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117"/>
+<!-- Primary Stats — using statscards.vercel.app as reliable alternative -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&count_private=true&rank_icon=github"/>
+&nbsp;&nbsp;
+<!-- Top Languages — using a different instance -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&langs_count=8&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&text_color=a78bfa&bg_color=0d1117"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=00f5ff"/>
+<!-- Streak Stats — using git.io reliable mirror -->
+<img src="https://streak-stats.demolab.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Activity Graph — vercel hosted, stable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&border_color=00f5ff&hide_border=false"/>
 
 </div>
 
