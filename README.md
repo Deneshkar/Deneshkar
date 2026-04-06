@@ -101,17 +101,6 @@ currently:
 ---
 
 ## 〔 03 〕 **GITHUB STATS**
-
-<div align="center">
-
-<!-- Primary Stats — using statscards.vercel.app as reliable alternative -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&count_private=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<!-- Top Languages — using a different instance -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&langs_count=8&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&text_color=a78bfa&bg_color=0d1117"/>
-
-</div>
-
 <br/>
 
 <div align="center">
