@@ -211,23 +211,8 @@ currently:
 
 ---
 
-## 〔 07 〕 **CURRENT TARGETS**
 
-<div align="center">
-
-```
-  [████████░░]  Advanced Spring Boot Development      80%
-  [███████░░░]  MERN Stack Optimization               70%
-  [██████░░░░]  System Design Fundamentals            60%
-  [█████████░]  Portfolio-Level Projects              90%
-  [███████░░░]  UI/UX Design Improvement              70%
-```
-
-</div>
-
----
-
-## 〔 08 〕 **CONNECT**
+## 〔 07 〕 **CONNECT**
 
 <div align="center">
 
