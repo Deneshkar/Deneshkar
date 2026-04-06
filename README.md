@@ -1,171 +1,244 @@
-<h1 align="center">Hi 👋, I'm Deneshkar</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+%7C+MERN+Stack;Building+Real+World+Applications&center=true&width=550&height=45">
-</p>
-<h3 align="center">🚀 Software Engineer from Sri Lanka 🇱🇰</h3>
-<p align="center">
-  Passionate about building modern, scalable, and user-friendly applications.
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     DENESHKAR — README.md                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DENESHKAR&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=75&descColor=a78bfa"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=⚡+Building+Scalable+Full-Stack+Apps;🔥+Spring+Boot+%7C+MERN+Stack+Dev;🚀+Turning+Ideas+into+Real+Products;💡+Clean+Code+%7C+Smart+Architecture)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```bash
-> name
-Deneshkar
-> role
-Software Engineer / Full-Stack Developer
-> frontend
-React, Vite, Tailwind CSS, JavaScript
-> backend
-Spring Boot, Node.js, Express.js
-> databases
-MySQL, MongoDB, MongoDB Atlas
-> focus
-Building real-world full-stack applications
-> status
-Actively improving skills & building portfolio projects
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > whoami                                                   ║
+║   Deneshkar — Software Engineer from Sri Lanka 🇱🇰           ║
+║                                                              ║
+║   > cat passion.txt                                          ║
+║   Building systems that solve real-world problems 🚀         ║
+║                                                              ║
+║   > ls skills/                                               ║
+║   spring-boot/  mern-stack/  system-design/  clean-code/    ║
+║                                                              ║
+║   > git status                                               ║
+║   Actively learning, building & shipping... 🔄               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔐 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-### 🌐 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 〔 01 〕 **ABOUT ME**
 
-### 🔹 TaskFlow – Smart Task Management System
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&text_color=a78bfa&bg_color=0d1117"/>
+
 ```yaml
-Project Type: Full-Stack Web Application
-Frontend:
-  - React
-  - Vite
-  - Tailwind CSS
-Backend:
-  - Node.js
-  - Express.js
-Database:
-  - MongoDB
-Core Features:
-  - User Authentication (JWT + bcrypt)
-  - Task CRUD (Create, Read, Update, Delete)
-  - Task Status & Priority Filtering
-  - Protected Routes
-  - REST API Integration
-  - Responsive Modern UI
+identity:
+  name       : Deneshkar
+  role       : Software Engineer / Full-Stack Developer
+  location   : Sri Lanka 🇱🇰
+  status     : Open to opportunities 🟢
+
+focus:
+  primary    : Spring Boot + MERN Stack
+  philosophy : Clean code, scalable design
+  mindset    : Systems thinker, problem solver
+
+currently:
+  learning   : Advanced Spring Boot, System Design
+  building   : Portfolio-level real-world projects
+  improving  : UI/UX + Backend architecture
 ```
+
+<br clear="right"/>
 
 ---
 
-### 🔹 Food Order Management System
-```yaml
-Project Type: Full-Stack Food Ordering Application
-Frontend:
-  - React / React Native (Expo)
-Backend:
-  - Node.js + Express.js
-Database:
-  - MongoDB Atlas
-Modules:
-  - User Management
-  - Menu Management
-  - Category Management
-  - Order Management
-  - Cart System
-  - Review & Rating System
-  - Payment Integration
-  - Admin Dashboard
-Key Features:
-  - JWT Authentication
-  - RESTful APIs
-  - Role-based Access (Admin/User)
-  - Real-time Data Handling
-  - Mobile & Web Support
-```
+## 〔 02 〕 **TECH ARSENAL**
 
----
+<div align="center">
 
-## 📦 Other Knowledge & Experience
-```text
-• REST API Development
-• MVC Architecture
-• Authentication & Authorization
-• Database Schema Design
-• Error Handling & Validation (Joi)
-• Axios API Integration
-• Git Version Control
-• Debugging & Problem Solving
-```
+### ◈ Languages
 
----
-
-## 📊 Developer Mindset
-```text
-✔ Clean & Maintainable Code
-✔ Scalable Backend Design
-✔ Modern UI/UX Thinking
-✔ Real-world Project Focus
-✔ Continuous Learning
-✔ Strong Debugging Skills
-```
-
----
-
-## 🎯 Current Focus
-```text
-→ Advanced Spring Boot Development
-→ MERN Stack Optimization
-→ System Design Fundamentals
-→ Building Portfolio-Level Projects
-→ Improving UI/UX Design
-```
-
----
-
-## 📫 Connect With Me
 <p>
-  <a href="https://github.com/Deneshkar">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c&theme=dark" />
 </p>
+
+### ◈ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+</p>
+
+### ◈ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+</p>
+
+### ◈ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+### ◈ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+</p>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
-```text
-I don't just build projects...
-I build systems that solve real-world problems 🚀
+## 〔 03 〕 **GITHUB STATS**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&hide_border=false&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=00f5ff"/>
+
+</div>
+
+---
+
+## 〔 04 〕 **FEATURED PROJECTS**
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔷  PROJECT 01 — TaskFlow                                  │
+│      Smart Task Management System                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Stack  →  React · Vite · Tailwind · Node.js · MongoDB      │
+│                                                             │
+│  ✦ JWT Authentication + bcrypt encryption                   │
+│  ✦ Full CRUD with priority & status filtering               │
+│  ✦ Protected routes + REST API integration                  │
+│  ✦ Responsive, modern UI/UX design                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔷  PROJECT 02 — FoodFlow                                  │
+│      Full-Stack Food Order Management System                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Stack  →  React Native (Expo) · Node.js · MongoDB Atlas    │
+│                                                             │
+│  ✦ Role-based access control (Admin / User)                 │
+│  ✦ Cart, Orders, Payments & Reviews modules                 │
+│  ✦ Real-time data handling + Admin Dashboard                │
+│  ✦ Cross-platform: Web & Mobile support                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
+## 〔 05 〕 **SKILLS & KNOWLEDGE**
+
+<div align="center">
+
+| Domain | Skills |
+|:---|:---|
+| 🔌 API Development | REST APIs · MVC Architecture · Joi Validation |
+| 🔐 Security | JWT Auth · bcrypt · Role-based Access Control |
+| 🗃️ Data | Schema Design · MongoDB · MySQL · Axios Integration |
+| 🛠️ Engineering | Git Workflow · Debugging · Error Handling |
+| 🎨 Design | Responsive UI · Component Architecture · UX Thinking |
+
+</div>
+
+---
+
+## 〔 06 〕 **DEV PHILOSOPHY**
+
+<div align="center">
+
+```
+  ╭──────────────────────────────────────────────────────╮
+  │                                                      │
+  │   "I don't just write code —                         │
+  │    I architect solutions."                           │
+  │                                                      │
+  │   ✔  Clean, readable & maintainable code             │
+  │   ✔  Scalable backend design patterns                │
+  │   ✔  Real-world problem-first thinking               │
+  │   ✔  Continuous shipping & learning                  │
+  │   ✔  Strong debugging & analytical mindset           │
+  │                                                      │
+  ╰──────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## 〔 07 〕 **CURRENT TARGETS**
+
+<div align="center">
+
+```
+  [████████░░]  Advanced Spring Boot Development      80%
+  [███████░░░]  MERN Stack Optimization               70%
+  [██████░░░░]  System Design Fundamentals            60%
+  [█████████░]  Portfolio-Level Projects              90%
+  [███████░░░]  UI/UX Design Improvement              70%
+```
+
+</div>
+
+---
+
+## 〔 08 〕 **CONNECT**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Deneshkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+</div>
+
+<!-- Built with 🔥 by Deneshkar -->
