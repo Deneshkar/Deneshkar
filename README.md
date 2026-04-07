@@ -22,10 +22,10 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   > whoami                                                   ║
-║   Deneshkar — Software Engineer from Sri Lanka 🇱🇰           ║
+║   Deneshkar — Software Engineer from Sri Lanka               ║
 ║                                                              ║
 ║   > cat passion.txt                                          ║
-║   Building systems that solve real-world problems 🚀         ║
+║   Building systems that solve real-world problems 🚀        ║
 ║                                                              ║
 ║   > ls skills/                                               ║
 ║   spring-boot/  mern-stack/  system-design/  clean-code/    ║
