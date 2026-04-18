@@ -157,6 +157,22 @@ currently:
 └─────────────────────────────────────────────────────────────┘
 ```
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔷  PROJECT 03 — Library Management System                 │
+│      Spring Boot MVC Library Web Application                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Stack  →  Java · Spring Boot · Thymeleaf · MySQL           │
+│                                                             │
+│  ✦ Session-based Auth + Role-based Access (User / Admin)    │
+│  ✦ Book catalog, Borrow/Return flow & stock management      │
+│  ✦ Overdue fine generation & Admin fine payment handling    │
+│  ✦ Daily scheduler for due-date reminders & notifications   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
