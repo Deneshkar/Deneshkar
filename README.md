@@ -173,6 +173,29 @@ currently:
 └─────────────────────────────────────────────────────────────┘
 ```
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔷  PROJECT 04 — MediAssist AI                              │
+│      Production Emergency Health Assistant & Companion App  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Stack  →  Google ADK · Multi-Agent AI · Python · Groq LLM  │
+│            HTML5 · CSS3 · JS · Web Speech API (TTS)         │
+│                                                             │
+│  ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine,   │
+│    Report Summarizer & Health Chat sub-agents)               │
+│  ✦ Real-time symptom triage with CRITICAL/URGENT/MODERATE/  │
+│    MILD severity flags & emergency hotline escalation        │
+│  ✦ Step-by-step First Aid guidance for 15+ conditions with  │
+│    hands-free Text-to-Speech playback                        │
+│  ✦ Medical Lab Report Summarizer with visual biomarker       │
+│    dashboard (CBC, Lipids, Liver, Thyroid, HbA1c & more)      │
+│  ✦ Conversational AI Health Chatbot with SSE streaming &     │
+│    daily wellness tracking (hydration, mood, sleep, diet)    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
@@ -188,6 +211,7 @@ currently:
 | 🗃️ Data | Schema Design · MongoDB · MySQL · Axios Integration |
 | 🛠️ Engineering | Git Workflow · Debugging · Error Handling |
 | 🎨 Design | Responsive UI · Component Architecture · UX Thinking |
+| 🤖 AI / Agentic Systems | Google ADK · Multi-Agent Orchestration · LLM Integration (Groq) |
 
 </div>
 
