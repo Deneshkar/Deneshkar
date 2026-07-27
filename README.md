@@ -105,15 +105,6 @@ currently:
 
 <div align="center">
 
-<!-- Streak Stats — switched to the more reliable Heroku-hosted mirror -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63&mode=daily"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <!-- Activity Graph — vercel hosted, stable -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&border_color=00f5ff&hide_border=false"/>
 
