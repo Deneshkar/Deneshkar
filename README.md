@@ -102,13 +102,6 @@ currently:
 
 ## 〔 03 〕 **GITHUB STATS**
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff" alt="github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" alt="top languages"/>
-
-</div>
-
 <br/>
 
 <div align="center">
