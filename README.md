@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DENESHKAR&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=75&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DENESHKAR&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=75&descColor=a78bfa" alt="header banner"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=⚡+Building+Scalable+Full-Stack+Apps;🔥+Spring+Boot+%7C+MERN+Stack+Dev;🚀+Turning+Ideas+into+Real+Products;💡+Clean+Code+%7C+Smart+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=%E2%9A%A1+Building+Scalable+Full-Stack+Apps;%F0%9F%94%A5+Spring+Boot+%7C+MERN+Stack+Dev;%F0%9F%9A%80+Turning+Ideas+into+Real+Products;%F0%9F%92%A1+Clean+Code+%7C+Smart+Architecture)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,31 +69,31 @@ currently:
 ### ◈ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c&theme=dark" alt="languages"/>
 </p>
 
 ### ◈ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="frontend"/>
 </p>
 
 ### ◈ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="backend"/>
 </p>
 
 ### ◈ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="databases"/>
 </p>
 
 ### ◈ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="tools"/>
 </p>
 
 </div>
@@ -104,7 +104,8 @@ currently:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=tokyonight&hide_border=false&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff" alt="github stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" alt="top languages"/>
 
 </div>
 
@@ -112,9 +113,19 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&border_color=00f5ff"/>
+<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=tokyonight&hide_border=false&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63" alt="streak stats"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&custom_title=Deneshkar's%20Contribution%20Graph" alt="activity graph"/>
+
+</div>
+
+> 💡 If any stat card above shows blank or broken, it's almost always because the GitHub username in the URL (`Deneshkar`) doesn't match your actual GitHub handle, or GitHub stats are still refreshing (their cache updates every ~24h). Swap in your real username and re-save to fix it.
 
 ---
 
@@ -242,8 +253,8 @@ currently:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Deneshkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/your-actual-handle)
+[![Email](https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-real-email@example.com)
 
 </div>
 
@@ -251,13 +262,13 @@ currently:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
+<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="profile views"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" alt="footer banner"/>
 
 </div>
 
