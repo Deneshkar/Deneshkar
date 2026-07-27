@@ -106,7 +106,7 @@ currently:
 <div align="center">
 
 <!-- Streak Stats — using git.io reliable mirror -->
-<img src="https://streak-stats.demolab.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63"/>
+<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63&cache_seconds=1800&v=2"/>
 
 </div>
 
