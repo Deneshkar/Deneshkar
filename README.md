@@ -118,8 +118,6 @@ currently:
 
 </div>
 
-> 💡 If any stat card above shows blank or broken, it's almost always because the GitHub username in the URL (`Deneshkar`) doesn't match your actual GitHub handle, or GitHub stats are still refreshing (their cache updates every ~24h). Swap in your real username and re-save to fix it.
-
 ---
 
 ## 〔 04 〕 **FEATURED PROJECTS**
