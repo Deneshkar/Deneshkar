@@ -105,8 +105,8 @@ currently:
 
 <div align="center">
 
-<!-- Streak Stats — using git.io reliable mirror -->
-<img src="https://streak-stats.demolab.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63"/>
+<!-- Streak Stats — switched to the more reliable Heroku-hosted mirror -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneshkar&theme=tokyonight&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63&mode=daily"/>
 
 </div>
 
