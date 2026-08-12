@@ -114,7 +114,7 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&custom_title=Deneshkar's%20Contribution%20Graph" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&custom_title=Deneshkar%20Contribution%20Graph" alt="activity graph"/>
 
 </div>
 
