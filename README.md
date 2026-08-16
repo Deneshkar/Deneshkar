@@ -118,6 +118,22 @@ currently:
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-snake-dark.svg" alt="GitHub Snake" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
 ---
 
 ## 〔 04 〕 **FEATURED PROJECTS**
