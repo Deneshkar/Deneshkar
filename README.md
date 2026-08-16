@@ -1,16 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+﻿<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     DENESHKAR — README.md                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DENESHKAR&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=75&descColor=a78bfa" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Deneshkar&fontSize=68&fontColor=e94560&animation=fadeIn&fontAlignY=50&desc=Software%20Engineering%20Student%20%7C%20BSc%20(Hons)%20SE%20%7C%20Year%203&descSize=17&descAlignY=72&descColor=a8b2d8" alt="header banner"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=%E2%9A%A1+Building+Scalable+Full-Stack+Apps;%F0%9F%94%A5+Spring+Boot+%7C+MERN+Stack+Dev;%F0%9F%9A%80+Turning+Ideas+into+Real+Products;%F0%9F%92%A1+Clean+Code+%7C+Smart+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&random=false&width=650&lines=BSc+(Hons)+Software+Engineering+%7C+Year+3;Full-Stack+Developer+%7C+Spring+Boot+%2B+MERN;Building+Real-World+Systems+from+the+Ground+Up;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Continuous+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,50 +19,83 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > whoami                                                   ║
-║   Deneshkar — Software Engineer from Sri Lanka               ║
-║                                                              ║
-║   > cat passion.txt                                          ║
-║   Building systems that solve real-world problems 🚀        ║
-║                                                              ║
-║   > ls skills/                                               ║
-║   spring-boot/  mern-stack/  system-design/  clean-code/    ║
-║                                                              ║
-║   > git status                                               ║
-║   Actively learning, building & shipping... 🔄               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                    ACADEMIC PROFILE — QUICK LOOK                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   Name        →  Deneshkar                                       ║
+║   Degree      →  BSc (Hons) Software Engineering                 ║
+║   Year        →  3rd Year Undergraduate                          ║
+║   Location    →  Sri Lanka 🇱🇰                                    ║
+║   Status      →  Open to Internships & Opportunities 🟢          ║
+║                                                                  ║
+║   Interests   →  Full-Stack Development · System Design          ║
+║                  Backend Architecture · AI-Assisted Systems      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 〔 01 〕 **ABOUT ME**
+## § 01 — About Me
 
 ```yaml
-identity:
-  name: Deneshkar
-  role: Software Engineer / Full-Stack Developer
-  location: Sri Lanka 🇱🇰
-  status: Open to opportunities 🟢
+# ── Personal Statement ──────────────────────────────────────────────
+student:
+  name:       "Deneshkar"
+  degree:     "BSc (Hons) Software Engineering"
+  year:       "3rd Year Undergraduate"
+  location:   "Sri Lanka 🇱🇰"
+  status:     "Open to internships & collaborative projects 🟢"
 
-focus:
-  primary: Spring Boot + MERN Stack
-  philosophy: Clean code, scalable design
-  mindset: Systems thinker, problem solver
+engineering_focus:
+  primary_stack:  "Spring Boot + MERN (React · Node.js · MongoDB)"
+  philosophy:     "Build systems that are clean, scalable, and purposeful"
+  mindset:        "Problem-first thinker · Architecture-driven developer"
 
 currently:
-  learning: Advanced Spring Boot, System Design
-  building: Portfolio-level real-world projects
-  improving: UI/UX + Backend architecture
+  studying:   "Software Engineering Principles · System Design · DSA"
+  building:   "Production-grade portfolio projects"
+  improving:  "Backend architecture · UI/UX · Agentic AI systems"
+  goal:       "Secure a software engineering internship & grow as a developer"
 ```
 
 ---
 
-## 〔 02 〕 **TECH ARSENAL**
+## § 02 — Academic Overview
+
+<div align="center">
+
+| 📚 Field of Study       | BSc (Hons) Software Engineering                        |
+| :---------------------- | :----------------------------------------------------- |
+| 🎓 Year of Study        | 3rd Year Undergraduate                                 |
+| 📍 Location             | Sri Lanka                                              |
+| 🔬 Research Interests   | Software Architecture · AI-Assisted Systems · Web Dev  |
+| 🛠️ Industry Interest    | Full-Stack Development · Backend Engineering           |
+| 🤝 Looking For          | Internship · Open-Source Collaboration · Mentorship    |
+
+</div>
+
+### 📖 Current Coursework (Year 3)
+
+<div align="center">
+
+| Module                          | Focus Area                                      |
+| :------------------------------ | :---------------------------------------------- |
+| Software Engineering Principles | SDLC, Agile, Requirements Engineering           |
+| Data Structures & Algorithms    | Complexity Analysis, Trees, Graphs, DP          |
+| Database Management Systems     | Relational Design, Transactions, Optimisation   |
+| Web Application Development     | Full-Stack Patterns, REST, SPA Architecture     |
+| Software Architecture           | Design Patterns, Microservices, System Design   |
+| Operating Systems               | Processes, Threads, Memory Management           |
+
+</div>
+
+---
+
+## § 03 — Technology Arsenal
 
 <div align="center">
 
@@ -93,20 +126,20 @@ currently:
 ### ◈ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven&theme=dark" alt="tools"/>
 </p>
 
 </div>
 
 ---
 
-## 〔 03 〕 **GITHUB STATS**
+## § 04 — GitHub Analytics
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=tokyonight&hide_border=false&border=00f5ff&ring=a78bfa&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117&stroke=302b63" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&border_radius=8&ring=e94560&fire=e94560&currStreakLabel=e94560&background=0d1117&stroke=1a1a2e&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
 
 </div>
 
@@ -114,11 +147,19 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&custom_title=Deneshkar%20Contribution%20Graph" alt="activity graph"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=0d1117" alt="github stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&theme=github_dark&hide_border=true&border_radius=8&title_color=e94560&text_color=a8b2d8&bg_color=0d1117" alt="top languages"/>
 
 </div>
 
+<br/>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=e94560&line=16213e&point=e94560&area=true&area_color=1a1a2e&custom_title=Deneshkar%20Contribution%20Graph&hide_border=true" alt="activity graph"/>
+
+</div>
 
 <div align="center">
 
@@ -128,132 +169,134 @@ currently:
 
 ---
 
-## 〔 04 〕 **FEATURED PROJECTS**
+## § 05 — Featured Projects
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🔷  PROJECT 01 — Sahana Photocopy Shop                     │
-│      Full-Stack Shop Management System                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Stack  →  React · Vite · Tailwind · Node.js · MongoDB      │
-│                                                             │
-│  ✦ JWT Auth + Role-based Access (Guest / Customer / Admin)  │
-│  ✦ Product catalog, Cart, Orders & Print Request workflow   │
-│  ✦ Admin Dashboard with revenue & low-stock insights        │
-│  ✦ AI-assisted print option suggestions                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════╗
+║  PROJECT 01 — Sahana Photocopy Shop Management System           ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║  Type   →  Full-Stack Web Application (Academic + Personal)     ║
+║  Stack  →  React · Vite · Tailwind · Node.js · MongoDB          ║
+║                                                                 ║
+║  Key Engineering Decisions:                                     ║
+║  ► JWT Auth + Role-Based Access (Guest / Customer / Admin)      ║
+║  ► Product catalog, Cart, Orders & Print Request workflow       ║
+║  ► Admin Dashboard with revenue & low-stock analytics           ║
+║  ► AI-assisted print option suggestions module                  ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🔷  PROJECT 02 — FoodFlow                                  │
-│      Full-Stack Food Order Management System                │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Stack  →  React Native (Expo) · Node.js · MongoDB Atlas    │
-│                                                             │
-│  ✦ Role-based access control (Admin / User)                 │
-│  ✦ Cart, Orders, Payments & Reviews modules                 │
-│  ✦ Real-time data handling + Admin Dashboard                │
-│  ✦ Cross-platform: Web & Mobile support                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════╗
+║  PROJECT 02 — FoodFlow · Food Order Management System           ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║  Type   →  Cross-Platform Mobile + Web Application              ║
+║  Stack  →  React Native (Expo) · Node.js · MongoDB Atlas        ║
+║                                                                 ║
+║  Key Engineering Decisions:                                     ║
+║  ► Role-based access control (Admin / User)                     ║
+║  ► Cart, Orders, Payments & Reviews modules                     ║
+║  ► Real-time data handling + Admin Dashboard                    ║
+║  ► Cross-platform: Web & Mobile support                         ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🔷  PROJECT 03 — Library Management System                 │
-│      Spring Boot MVC Library Web Application                │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Stack  →  Java · Spring Boot · Thymeleaf · MySQL           │
-│                                                             │
-│  ✦ Session-based Auth + Role-based Access (User / Admin)    │
-│  ✦ Book catalog, Borrow/Return flow & stock management      │
-│  ✦ Overdue fine generation & Admin fine payment handling    │
-│  ✦ Daily scheduler for due-date reminders & notifications   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════╗
+║  PROJECT 03 — Library Management System (Spring Boot MVC)       ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║  Type   →  Enterprise-Grade Backend Web Application             ║
+║  Stack  →  Java · Spring Boot · Thymeleaf · MySQL               ║
+║                                                                 ║
+║  Key Engineering Decisions:                                     ║
+║  ► Session-based Auth + Role-based Access (User / Admin)        ║
+║  ► Book catalog, Borrow/Return flow & stock management          ║
+║  ► Overdue fine generation & Admin fine payment handling        ║
+║  ► Scheduled tasks for due-date reminders & notifications       ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🔷  PROJECT 04 — MediAssist AI                              │
-│      Production Emergency Health Assistant & Companion App  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Stack  →  Google ADK · Multi-Agent AI · Python · Groq LLM  │
-│            HTML5 · CSS3 · JS · Web Speech API (TTS)         │
-│                                                             │
-│  ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine,   │
-│    Report Summarizer & Health Chat sub-agents)               │
-│  ✦ Real-time symptom triage with CRITICAL/URGENT/MODERATE/  │
-│    MILD severity flags & emergency hotline escalation        │
-│  ✦ Step-by-step First Aid guidance for 15+ conditions with  │
-│    hands-free Text-to-Speech playback                        │
-│  ✦ Medical Lab Report Summarizer with visual biomarker       │
-│    dashboard (CBC, Lipids, Liver, Thyroid, HbA1c & more)      │
-│  ✦ Conversational AI Health Chatbot with SSE streaming &     │
-│    daily wellness tracking (hydration, mood, sleep, diet)    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════╗
+║  PROJECT 04 — MediAssist AI · Emergency Health Assistant        ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║  Type   →  Production Agentic AI System                         ║
+║  Stack  →  Google ADK · Multi-Agent AI · Python · Groq LLM      ║
+║            HTML5 · CSS3 · JS · Web Speech API (TTS)             ║
+║                                                                 ║
+║  Key Engineering Decisions:                                     ║
+║  ► Multi-Agent Orchestrator (Triage, First Aid, Medicine,       ║
+║    Report Summariser & Health Chat sub-agents)                  ║
+║  ► Real-time symptom triage with severity flags & escalation    ║
+║  ► Step-by-step First Aid guidance with Text-to-Speech          ║
+║  ► Medical Lab Report Summariser with biomarker dashboard       ║
+║  ► Conversational Health Chatbot with SSE streaming             ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 〔 05 〕 **SKILLS & KNOWLEDGE**
+## § 06 — Engineering Competencies
 
 <div align="center">
 
-| Domain                  | Skills                                                          |
-| :---------------------- | :-------------------------------------------------------------- |
-| 🔌 API Development      | REST APIs · MVC Architecture · Joi Validation                   |
-| 🔐 Security             | JWT Auth · bcrypt · Role-based Access Control                   |
-| 🗃️ Data                 | Schema Design · MongoDB · MySQL · Axios Integration             |
-| 🛠️ Engineering          | Git Workflow · Debugging · Error Handling                       |
-| 🎨 Design               | Responsive UI · Component Architecture · UX Thinking            |
-| 🤖 AI / Agentic Systems | Google ADK · Multi-Agent Orchestration · LLM Integration (Groq) |
+| Domain                      | Competencies                                                         |
+| :-------------------------- | :------------------------------------------------------------------- |
+| 🔌 API & Backend Design     | REST APIs · MVC Architecture · Spring Boot · Express.js              |
+| 🔐 Security Engineering     | JWT Auth · bcrypt · Role-Based Access Control (RBAC)                 |
+| 🗃️ Data Engineering         | Schema Design · MongoDB · MySQL · Transactions · Optimisation        |
+| 🏗️ Software Architecture   | Design Patterns · Microservices Concepts · Clean Architecture        |
+| 🛠️ Engineering Practices    | Git Workflow · Code Review · Debugging · Error Handling              |
+| 🎨 Frontend Engineering     | Responsive UI · Component Architecture · UX Thinking                |
+| 🤖 AI / Agentic Systems     | Google ADK · Multi-Agent Orchestration · LLM Integration (Groq)     |
+| 📐 Core CS Fundamentals     | DSA · OOP · DBMS · OS Concepts · Software Engineering Principles     |
 
 </div>
 
 ---
 
-## 〔 06 〕 **DEV PHILOSOPHY**
+## § 07 — Engineering Philosophy
 
 <div align="center">
 
 ```
-  ╭──────────────────────────────────────────────────────╮
-  │                                                      │
-  │   "I don't just write code —                         │
-  │    I architect solutions."                           │
-  │                                                      │
-  │   ✔  Clean, readable & maintainable code             │
-  │   ✔  Scalable backend design patterns                │
-  │   ✔  Real-world problem-first thinking               │
-  │   ✔  Continuous shipping & learning                  │
-  │   ✔  Strong debugging & analytical mindset           │
-  │                                                      │
-  ╰──────────────────────────────────────────────────────╯
+  ╭────────────────────────────────────────────────────────────╮
+  │                                                            │
+  │   "A good software engineer doesn't just write code —      │
+  │    they architect solutions that stand the test of time."  │
+  │                                                            │
+  │   ✔  Write code that a future-you can understand           │
+  │   ✔  Think in systems, not just in features                │
+  │   ✔  Solve the real problem, not the surface problem       │
+  │   ✔  Ship, iterate, and always keep learning               │
+  │   ✔  Debugging is half the craft — embrace it              │
+  │                                                            │
+  ╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-## 〔 07 〕 **CONNECT**
+## § 08 — Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Deneshkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/your-actual-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-real-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Deneshkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/your-actual-handle)
+[![Email](https://img.shields.io/badge/Email-Contact-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-real-email@example.com)
 
 </div>
 
@@ -261,14 +304,14 @@ currently:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=e94560&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="profile views"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer&animation=fadeIn" alt="footer banner"/>
 
 </div>
 
-<!-- Built with 🔥 by Deneshkar -->
+<!-- Built with ❤️ by Deneshkar — BSc (Hons) Software Engineering, Year 3 -->
