@@ -1,4 +1,4 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     DENESHKAR — README.md                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -108,7 +108,7 @@ currently:
 ### ◈ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter&theme=dark" alt="frontend"/>
 </p>
 
 ### ◈ Backend
