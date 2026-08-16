@@ -25,6 +25,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Speed up animation
+        run: sed -E -i 's/[0-9]+ms/10000ms/g' dist/github-snake-dark.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
