@@ -27,12 +27,12 @@ jobs:
 
       - name: Speed up animation
         run: |
+          sudo chown -R $USER:$USER dist
           if [ -f dist/github-snake-dark.svg ]; then
-            cat dist/github-snake-dark.svg | sed 's/[0-9][0-9]*ms/10000ms/g' > dist/tmp.svg
-            mv dist/tmp.svg dist/github-snake-dark.svg
+            cat dist/github-snake-dark.svg | sed 's/[0-9][0-9]*ms/10000ms/g' > tmp.svg
+            mv tmp.svg dist/github-snake-dark.svg
           else
             echo "Error: dist/github-snake-dark.svg not found."
-            ls -la dist/ || echo "dist directory does not exist"
             exit 1
           fi
 
