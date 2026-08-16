@@ -143,17 +143,7 @@ currently:
 
 </div>
 
-<br/>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=0d1117" alt="github stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneshkar&layout=compact&theme=github_dark&hide_border=true&border_radius=8&title_color=e94560&text_color=a8b2d8&bg_color=0d1117" alt="top languages"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
