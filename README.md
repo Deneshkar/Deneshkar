@@ -23,12 +23,12 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║     ██████╗  ██████╗ ███╗   ██╗███████╗██╗ ██████╗                      ║
-║    ██╔════╝ ██╔═══██╗████╗  ██║██╔════╝██║██╔════╝                      ║
-║    ██║      ██║   ██║██╔██╗ ██║█████╗  ██║██║  ███╗                     ║
-║    ██║      ██║   ██║██║╚██╗██║██╔══╝  ██║██║   ██║                     ║
-║    ╚██████╗ ╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝                     ║
-║     ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝                      ║
+║     ██████╗  ██████╗ ███╗   ██╗███████╗██╗ ██████╗                       ║
+║    ██╔════╝ ██╔═══██╗████╗  ██║██╔════╝██║██╔════╝                       ║
+║    ██║      ██║   ██║██╔██╗ ██║█████╗  ██║██║  ███╗                      ║
+║    ██║      ██║   ██║██║╚██╗██║██╔══╝  ██║██║   ██║                      ║
+║    ╚██████╗ ╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝                      ║
+║     ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝                       ║
 ║                                                                          ║
 ║                  🕷️  FRIENDLY NEIGHBORHOOD  🕷️                           ║
 ║                  ─── SOFTWARE ENGINEER ───                               ║
@@ -36,28 +36,28 @@
 ║   "With great code comes great responsibility."                          ║
 ║                                                                          ║
 ║   ┌────────────────────────────────────────────────────────────────┐     ║
-║   │  HERO IDENTITY                                                │     ║
+║   │  HERO IDENTITY                                                 │     ║
 ║   ├────────────────────────────────────────────────────────────────┤     ║
-║   │  NAME           Deneshkar                                     │     ║
-║   │  CODE NAME      Friendly Neighborhood Developer               │     ║
-║   │  SPECIALITY     Full-Stack Engineering                        │     ║
-║   │  BASE           Sri Lanka                                     │     ║
-║   │  STATUS         Actively Seeking Opportunities                │     ║
+║   │  NAME           Deneshkar                                      │     ║
+║   │  CODE NAME      Friendly Neighborhood Developer                │     ║
+║   │  SPECIALITY     Full-Stack Engineering                         │     ║
+║   │  BASE           Sri Lanka                                      │     ║
+║   │  STATUS         Actively Seeking Opportunities                 │     ║
 ║   └────────────────────────────────────────────────────────────────┘     ║
 ║                                                                          ║
 ║   ┌────────────────────────────────────────────────────────────────┐     ║
 ║   │  HERO STATS                                                    │     ║
 ║   ├────────────────────────────────────────────────────────────────┤     ║
 ║   │                                                                │     ║
-║   │  SPIDER-SENSE (Algorithms)   ████████████████████░░░░  75%    │     ║
-║   │  WEB-SLINGING (Frontend)     ██████████████████████░░  80%    │     ║
-║   │  WALL-CRAWLING (Backend)     ████████████████████████  90%    │     ║
-║   │  SPIDER-STRENGTH (System)    ██████████████████████░░  80%    │     ║
-║   │  TEAM WORK (Collaboration)   ████████████████████████  95%    │     ║
+║   │  SPIDER-SENSE (Algorithms)   ████████████████████░░░░  75%     │     ║
+║   │  WEB-SLINGING (Frontend)     ██████████████████████░░  80%     │     ║
+║   │  WALL-CRAWLING (Backend)     ████████████████████████  90%     │     ║
+║   │  SPIDER-STRENGTH (System)    ██████████████████████░░  80%     │     ║
+║   │  TEAM WORK (Collaboration)   ████████████████████████  95%     │     ║
 ║   │                                                                │     ║
 ║   └────────────────────────────────────────────────────────────────┘     ║
 ║                                                                          ║
-║   🕸️ COMMITS: 552    ⭐ STARS: 9    🏆 ACHIEVEMENTS: 3                   ║
+║   🕸️ COMMITS: 552    ⭐ STARS: 9    🏆 ACHIEVEMENTS: 3                     ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -111,28 +111,28 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║   📰 ═══════════════════════════════════════════════════════════════ 📰  ║
-║   ║                  DAILY BUGLE - EXTRA!                        ║     ║
-║   ║            "Friendly Neighborhood Dev Strikes Again"         ║     ║
-║   📰 ═══════════════════════════════════════════════════════════════ 📰  ║
+║   📰 ═══════════════════════════════════════════════════════════════ 📰    ║
+║   ║                  DAILY BUGLE - EXTRA!                        ║       ║
+║   ║            "Friendly Neighborhood Dev Strikes Again"         ║       ║
+║   📰 ═══════════════════════════════════════════════════════════════ 📰    ║
 ║                                                                          ║
 ║   ┌──────────────────────────────────────────────────────────────────┐   ║
 ║   │                                                                  │   ║
-║   │  🕸️  CURRENTLY SPINNING WEBS (Building)                         │   ║
+║   │  🕸️  CURRENTLY SPINNING WEBS (Building)                          │   ║
 ║   │      Production-grade portfolio projects                         │   ║
-║   │      └─ Sahana Photocopy System | FoodFlow | MediAssist AI      │   ║
+║   │      └─ Sahana Photocopy System | FoodFlow | MediAssist AI       │   ║
 ║   │                                                                  │   ║
-║   │  📚  TRAINING ARC (Learning)                                     │   ║
+║   │  📚  TRAINING ARC (Learning)                                      │   ║
 ║   │      Software Engineering Principles · System Design · DSA       │   ║
-║   │      └─ Backend Architecture · Agentic AI Systems               │   ║
+║   │      └─ Backend Architecture · Agentic AI Systems                │   ║
 ║   │                                                                  │   ║
-║   │  🎯  LOOKING FOR TEAM-UPS (Opportunities)                       │   ║
-║   │      Software Engineering Internship                              │   ║
-║   │      └─ Open to Collaborations & Open Source Contributions      │   ║
+║   │  🎯  LOOKING FOR TEAM-UPS (Opportunities)                         │   ║
+║   │      Software Engineering Internship                             │   ║
+║   │      └─ Open to Collaborations & Open Source Contributions       │   ║
 ║   │                                                                  │   ║
-║   │  🔥  POWERING UP (Improving)                                     │   ║
-║   │      UI/UX · Backend Architecture · AI Systems                  │   ║
-║   │      └─ Building Real-World Systems from the Ground Up          │   ║
+║   │  🔥  POWERING UP (Improving)                                      │   ║
+║   │      UI/UX · Backend Architecture · AI Systems                   │   ║
+║   │      └─ Building Real-World Systems from the Ground Up           │   ║
 ║   │                                                                  │   ║
 ║   └──────────────────────────────────────────────────────────────────┘   ║
 ║                                                                          ║
@@ -170,19 +170,19 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
-║   ║                  SPIDER-VERSE FILE #001                      ║     ║
+║   ║                  SPIDER-VERSE FILE #001                      ║       ║
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
 ║   TYPE:    Full-Stack Web Application              THREAT LEVEL: ★★★★★   ║
-║   STACK:   React · Vite · Tailwind · Node.js · MongoDB                  ║
+║   STACK:   React · Vite · Tailwind · Node.js · MongoDB                   ║
 ║                                                                          ║
-║   ─────────────────────────────────────────────────────────────────────── ║
+║   ───────────────────────────────────────────────────────────────────────║
 ║                                                                          ║
-║   ✦ JWT Auth + Role-Based Access (Guest / Customer / Admin)             ║
-║   ✦ Product catalog, Cart, Orders & Print Request workflow              ║
-║   ✦ Admin Dashboard with revenue & low-stock analytics                  ║
-║   ✦ AI-assisted print option suggestions module                         ║
+║   ✦ JWT Auth + Role-Based Access (Guest / Customer / Admin)              ║
+║   ✦ Product catalog, Cart, Orders & Print Request workflow               ║
+║   ✦ Admin Dashboard with revenue & low-stock analytics                   ║
+║   ✦ AI-assisted print option suggestions module                          ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -192,19 +192,19 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
-║   ║                  SPIDER-VERSE FILE #002                      ║     ║
+║   ║                  SPIDER-VERSE FILE #002                      ║       ║
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   TYPE:    Cross-Platform Mobile + Web App        THREAT LEVEL: ★★★★☆   ║
-║   STACK:   React Native (Expo) · Node.js · MongoDB Atlas                ║
+║   TYPE:    Cross-Platform Mobile + Web App        THREAT LEVEL: ★★★★☆    ║
+║   STACK:   React Native (Expo) · Node.js · MongoDB Atlas                 ║
 ║                                                                          ║
-║   ─────────────────────────────────────────────────────────────────────── ║
+║   ───────────────────────────────────────────────────────────────────────║
 ║                                                                          ║
-║   ✦ Role-based access control (Admin / User)                            ║
-║   ✦ Cart, Orders, Payments & Reviews modules                            ║
-║   ✦ Real-time data handling + Admin Dashboard                           ║
-║   ✦ Cross-platform: Web & Mobile support                                ║
+║   ✦ Role-based access control (Admin / User)                             ║
+║   ✦ Cart, Orders, Payments & Reviews modules                             ║
+║   ✦ Real-time data handling + Admin Dashboard                            ║
+║   ✦ Cross-platform: Web & Mobile support                                 ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -214,19 +214,19 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
-║   ║                  SPIDER-VERSE FILE #003                      ║     ║
+║   ║                  SPIDER-VERSE FILE #003                      ║       ║
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   TYPE:    Enterprise-Grade Backend App           THREAT LEVEL: ★★★★★   ║
-║   STACK:   Java · Spring Boot · Thymeleaf · MySQL                       ║
+║   TYPE:    Enterprise-Grade Backend App           THREAT LEVEL: ★★★★★    ║
+║   STACK:   Java · Spring Boot · Thymeleaf · MySQL                        ║
 ║                                                                          ║
-║   ─────────────────────────────────────────────────────────────────────── ║
+║   ───────────────────────────────────────────────────────────────────────║
 ║                                                                          ║
-║   ✦ Session-based Auth + Role-based Access (User / Admin)               ║
-║   ✦ Book catalog, Borrow/Return flow & stock management                 ║
-║   ✦ Overdue fine generation & Admin fine payment handling               ║
-║   ✦ Scheduled tasks for due-date reminders & notifications              ║
+║   ✦ Session-based Auth + Role-based Access (User / Admin)                ║
+║   ✦ Book catalog, Borrow/Return flow & stock management                  ║
+║   ✦ Overdue fine generation & Admin fine payment handling                ║
+║   ✦ Scheduled tasks for due-date reminders & notifications               ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -236,19 +236,19 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
-║   ║                  SPIDER-VERSE FILE #004                      ║     ║
+║   ║                  SPIDER-VERSE FILE #004                      ║       ║
 ║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   TYPE:    Production Agentic AI System           THREAT LEVEL: ★★★★★   ║
-║   STACK:   Google ADK · Multi-Agent AI · Python · Groq LLM              ║
+║   TYPE:    Production Agentic AI System           THREAT LEVEL: ★★★★★    ║
+║   STACK:   Google ADK · Multi-Agent AI · Python · Groq LLM               ║
 ║                                                                          ║
-║   ─────────────────────────────────────────────────────────────────────── ║
+║   ───────────────────────────────────────────────────────────────────────║
 ║                                                                          ║
-║   ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine, etc.)        ║
-║   ✦ Real-time symptom triage with severity flags & escalation           ║
-║   ✦ Step-by-step First Aid guidance with Text-to-Speech                 ║
-║   ✦ Medical Lab Report Summariser with biomarker dashboard              ║
+║   ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine, etc.)         ║
+║   ✦ Real-time symptom triage with severity flags & escalation            ║
+║   ✦ Step-by-step First Aid guidance with Text-to-Speech                  ║
+║   ✦ Medical Lab Report Summariser with biomarker dashboard               ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -264,18 +264,18 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                    🕸️ SPIDER-POWERS UNLOCKED 🕸️                         ║
+║                    🕸️ SPIDER-POWERS UNLOCKED 🕸️                          ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   🔌 WEB-SHOOTER (API Design)      REST APIs · MVC · Spring Boot        ║
-║   🔐 SPIDER-SENSE (Security)       JWT Auth · bcrypt · RBAC             ║
-║   🗃️ SPIDER-MANAGE (Data)          MongoDB · MySQL · Schema Design      ║
-║   🏗️ SPIDER-MOBILE (Architecture)  Design Patterns · Microservices      ║
-║   🛠️ SPIDER-REPAIR (Engineering)   Git · Code Review · Debugging        ║
-║   🎨 SPIDER-SUIT (Frontend)        Responsive UI · UX Design            ║
-║   🤖 SPIDER-BOT (AI/ML)            Google ADK · Multi-Agent · LLM       ║
-║   📐 SPIDER-MATH (CS Fundamentals) DSA · OOP · DBMS · OS · SE           ║
+║   🔌 WEB-SHOOTER (API Design)      REST APIs · MVC · Spring Boot          ║
+║   🔐 SPIDER-SENSE (Security)       JWT Auth · bcrypt · RBAC               ║
+║   🗃️ SPIDER-MANAGE (Data)          MongoDB · MySQL · Schema Design       ║
+║   🏗️ SPIDER-MOBILE (Architecture)  Design Patterns · Microservices       ║
+║   🛠️ SPIDER-REPAIR (Engineering)   Git · Code Review · Debugging         ║
+║   🎨 SPIDER-SUIT (Frontend)        Responsive UI · UX Design              ║
+║   🤖 SPIDER-BOT (AI/ML)            Google ADK · Multi-Agent · LLM         ║
+║   📐 SPIDER-MATH (CS Fundamentals) DSA · OOP · DBMS · OS · SE             ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -292,16 +292,16 @@
 ╭──────────────────────────────────────────────────────────────────────────╮
 │                                                                          │
 │   "With great power comes great responsibility."                         │
-│                         — Uncle Ben                                       │
+│                         — Uncle Ben                                      │
 │                                                                          │
 │   "A good software engineer doesn't just write code —                    │
-│    they architect solutions that stand the test of time."               │
+│    they architect solutions that stand the test of time."                │
 │                                                                          │
-│   ✔  Write code that a future-you can understand                        │
-│   ✔  Think in systems, not just in features                             │
-│   ✔  Solve the real problem, not the surface problem                    │
-│   ✔  Ship, iterate, and always keep learning                            │
-│   ✔  Debugging is half the craft — embrace it                           │
+│   ✔  Write code that a future-you can understand                         │
+│   ✔  Think in systems, not just in features                              │
+│   ✔  Solve the real problem, not the surface problem                     │
+│   ✔  Ship, iterate, and always keep learning                             │
+│   ✔  Debugging is half the craft — embrace it                            │
 │                                                                          │
 ╰──────────────────────────────────────────────────────────────────────────╯
 ```
@@ -339,12 +339,12 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                   🕷️ FRIENDLY NEIGHBORHOOD DEVELOPER 🕷️                 ║
+║                   🕷️ FRIENDLY NEIGHBORHOOD DEVELOPER 🕷️                  ║
 ║                                                                          ║
 ║              "Your Friendly Neighborhood Software Engineer"              ║
 ║                                                                          ║
 ║                    Built by Deneshkar                                    ║
-║              BSc (Hons) Software Engineering                            ║
+║              BSc (Hons) Software Engineering                             ║
 ║                     Year 3 · 2026                                        ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
