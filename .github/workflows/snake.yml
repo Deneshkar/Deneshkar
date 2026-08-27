@@ -22,10 +22,10 @@ jobs:
         with:
           github_user_name: Deneshkar
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=e94560&color_dots=9be9a8,40c463,30a14e,216e39,1a5e28
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=e94560
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
