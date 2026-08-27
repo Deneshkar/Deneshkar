@@ -145,6 +145,16 @@ currently:
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
