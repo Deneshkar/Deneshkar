@@ -147,7 +147,7 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneshkar&bg_color=0d1117&color=e94560&line=16213e&point=e94560&area=true&area_color=1a1a2e&custom_title=Deneshkar%20Contribution%20Graph&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 </div>
 
@@ -285,8 +285,8 @@ currently:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Deneshkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/your-actual-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-real-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/deneshkar-punyamoorthy-450931350)
+[![Email](https://img.shields.io/badge/Email-Contact-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:deneshkar015@gmail.com)
 
 </div>
 
