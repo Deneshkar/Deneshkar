@@ -109,34 +109,34 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-║   📰 ════════════════════════════════════════════════════════════ 📰   ║
-║   ║                    DAILY BUGLE - EXTRA!                      ║   ║
-║   ║              "Friendly Neighborhood Dev Strikes Again"       ║   ║
-║   📰 ════════════════════════════════════════════════════════════ 📰   ║
-│                                                                          │
-│   ┌──────────────────────────────────────────────────────────────────┐   │
-│   │                                                                  │   │
-│   │  🕸️  CURRENTLY SPINNING WEBS (Building)                         │   │
-│   │      Production-grade portfolio projects                         │   │
-│   │      └─ Sahana Photocopy System | FoodFlow | MediAssist AI      │   │
-│   │                                                                  │   │
-│   │  📚  TRAINING ARC (Learning)                                     │   │
-│   │      Software Engineering Principles · System Design · DSA       │   │
-│   │      └─ Backend Architecture · Agentic AI Systems               │   │
-│   │                                                                  │   │
-│   │  🎯  LOOKING FOR TEAM-UPS (Opportunities)                       │   │
-│   │      Software Engineering Internship                              │   │
-│   │      └─ Open to Collaborations & Open Source Contributions      │   │
-│   │                                                                  │   │
-│   │  🔥  POWERING UP (Improving)                                     │   │
-│   │      UI/UX · Backend Architecture · AI Systems                  │   │
-│   │      └─ Building Real-World Systems from the Ground Up          │   │
-│   │                                                                  │   │
-│   └──────────────────────────────────────────────────────────────────┘   │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   📰 ═══════════════════════════════════════════════════════════════ 📰  ║
+║   ║                  DAILY BUGLE - EXTRA!                        ║     ║
+║   ║            "Friendly Neighborhood Dev Strikes Again"         ║     ║
+║   📰 ═══════════════════════════════════════════════════════════════ 📰  ║
+║                                                                          ║
+║   ┌──────────────────────────────────────────────────────────────────┐   ║
+║   │                                                                  │   ║
+║   │  🕸️  CURRENTLY SPINNING WEBS (Building)                         │   ║
+║   │      Production-grade portfolio projects                         │   ║
+║   │      └─ Sahana Photocopy System | FoodFlow | MediAssist AI      │   ║
+║   │                                                                  │   ║
+║   │  📚  TRAINING ARC (Learning)                                     │   ║
+║   │      Software Engineering Principles · System Design · DSA       │   ║
+║   │      └─ Backend Architecture · Agentic AI Systems               │   ║
+║   │                                                                  │   ║
+║   │  🎯  LOOKING FOR TEAM-UPS (Opportunities)                       │   ║
+║   │      Software Engineering Internship                              │   ║
+║   │      └─ Open to Collaborations & Open Source Contributions      │   ║
+║   │                                                                  │   ║
+║   │  🔥  POWERING UP (Improving)                                     │   ║
+║   │      UI/UX · Backend Architecture · AI Systems                  │   ║
+║   │      └─ Building Real-World Systems from the Ground Up          │   ║
+║   │                                                                  │   ║
+║   └──────────────────────────────────────────────────────────────────┘   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -168,89 +168,89 @@
 ### 🕸️ PROJECT 01 — Sahana Photocopy Shop Management System
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-║   ║                    SPIDER-VERSE FILE #001                      ║   ║
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-│                                                                          │
-│   TYPE:    Full-Stack Web Application              THREAT LEVEL: ★★★★★   │
-│   STACK:   React · Vite · Tailwind · Node.js · MongoDB                  │
-│                                                                          │
-│   ───────────────────────────────────────────────────────────────────────│
-│                                                                          │
-│   ✦ JWT Auth + Role-Based Access (Guest / Customer / Admin)             │
-│   ✦ Product catalog, Cart, Orders & Print Request workflow              │
-│   ✦ Admin Dashboard with revenue & low-stock analytics                  │
-│   ✦ AI-assisted print option suggestions module                         │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+║   ║                  SPIDER-VERSE FILE #001                      ║     ║
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   TYPE:    Full-Stack Web Application              THREAT LEVEL: ★★★★★   ║
+║   STACK:   React · Vite · Tailwind · Node.js · MongoDB                  ║
+║                                                                          ║
+║   ─────────────────────────────────────────────────────────────────────── ║
+║                                                                          ║
+║   ✦ JWT Auth + Role-Based Access (Guest / Customer / Admin)             ║
+║   ✦ Product catalog, Cart, Orders & Print Request workflow              ║
+║   ✦ Admin Dashboard with revenue & low-stock analytics                  ║
+║   ✦ AI-assisted print option suggestions module                         ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### 🍕 PROJECT 02 — FoodFlow · Food Order Management System
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-║   ║                    SPIDER-VERSE FILE #002                      ║   ║
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-│                                                                          │
-│   TYPE:    Cross-Platform Mobile + Web App        THREAT LEVEL: ★★★★☆   │
-│   STACK:   React Native (Expo) · Node.js · MongoDB Atlas                │
-│                                                                          │
-│   ───────────────────────────────────────────────────────────────────────│
-│                                                                          │
-│   ✦ Role-based access control (Admin / User)                            │
-│   ✦ Cart, Orders, Payments & Reviews modules                            │
-│   ✦ Real-time data handling + Admin Dashboard                           │
-│   ✦ Cross-platform: Web & Mobile support                                │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+║   ║                  SPIDER-VERSE FILE #002                      ║     ║
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   TYPE:    Cross-Platform Mobile + Web App        THREAT LEVEL: ★★★★☆   ║
+║   STACK:   React Native (Expo) · Node.js · MongoDB Atlas                ║
+║                                                                          ║
+║   ─────────────────────────────────────────────────────────────────────── ║
+║                                                                          ║
+║   ✦ Role-based access control (Admin / User)                            ║
+║   ✦ Cart, Orders, Payments & Reviews modules                            ║
+║   ✦ Real-time data handling + Admin Dashboard                           ║
+║   ✦ Cross-platform: Web & Mobile support                                ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### 📚 PROJECT 03 — Library Management System (Spring Boot MVC)
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-║   ║                    SPIDER-VERSE FILE #003                      ║   ║
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-│                                                                          │
-│   TYPE:    Enterprise-Grade Backend App           THREAT LEVEL: ★★★★★   │
-│   STACK:   Java · Spring Boot · Thymeleaf · MySQL                       │
-│                                                                          │
-│   ───────────────────────────────────────────────────────────────────────│
-│                                                                          │
-│   ✦ Session-based Auth + Role-based Access (User / Admin)               │
-│   ✦ Book catalog, Borrow/Return flow & stock management                 │
-│   ✦ Overdue fine generation & Admin fine payment handling               │
-│   ✦ Scheduled tasks for due-date reminders & notifications              │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+║   ║                  SPIDER-VERSE FILE #003                      ║     ║
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   TYPE:    Enterprise-Grade Backend App           THREAT LEVEL: ★★★★★   ║
+║   STACK:   Java · Spring Boot · Thymeleaf · MySQL                       ║
+║                                                                          ║
+║   ─────────────────────────────────────────────────────────────────────── ║
+║                                                                          ║
+║   ✦ Session-based Auth + Role-based Access (User / Admin)               ║
+║   ✦ Book catalog, Borrow/Return flow & stock management                 ║
+║   ✦ Overdue fine generation & Admin fine payment handling               ║
+║   ✦ Scheduled tasks for due-date reminders & notifications              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### 🏥 PROJECT 04 — MediAssist AI · Emergency Health Assistant
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-║   ║                    SPIDER-VERSE FILE #004                      ║   ║
-║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
-│                                                                          │
-│   TYPE:    Production Agentic AI System           THREAT LEVEL: ★★★★★   │
-│   STACK:   Google ADK · Multi-Agent AI · Python · Groq LLM              │
-│                                                                          │
-│   ───────────────────────────────────────────────────────────────────────│
-│                                                                          │
-│   ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine, etc.)        │
-│   ✦ Real-time symptom triage with severity flags & escalation           │
-│   ✦ Step-by-step First Aid guidance with Text-to-Speech                 │
-│   ✦ Medical Lab Report Summariser with biomarker dashboard              │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+║   ║                  SPIDER-VERSE FILE #004                      ║     ║
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   TYPE:    Production Agentic AI System           THREAT LEVEL: ★★★★★   ║
+║   STACK:   Google ADK · Multi-Agent AI · Python · Groq LLM              ║
+║                                                                          ║
+║   ─────────────────────────────────────────────────────────────────────── ║
+║                                                                          ║
+║   ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine, etc.)        ║
+║   ✦ Real-time symptom triage with severity flags & escalation           ║
+║   ✦ Step-by-step First Aid guidance with Text-to-Speech                 ║
+║   ✦ Medical Lab Report Summariser with biomarker dashboard              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
