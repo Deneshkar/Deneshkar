@@ -1,56 +1,63 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           DENESHKAR — Software Engineer · Red Dead Style        -->
+<!--           DENESHKAR — Friendly Neighborhood Developer           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1209,50:2d1f0e,100:1a1209&height=220&section=header&text=DENESHKAR&fontSize=68&fontColor=c9a959&animation=fadeIn&fontAlignY=50&desc=%F0%9F%94%B1+Software+Engineer+%7C+Full-Stack+Developer+%7C+LVL+3&descSize=17&descAlignY=72&descColor=d4c5a9" alt="Wanted Poster"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:E4181F,100:003DA5&height=220&section=header&text=DENESHKAR&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=%F0%9F%8E%AF+Friendly+Neighborhood+Developer+%7C+Full-Stack+Engineer+%7C+LVL+3&descSize=17&descAlignY=72&descColor=FFD700" alt="Spider-Man Hero"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Special+Elite&weight=600&size=18&pause=1200&color=C9A959&center=true&vCenter=true&random=false&width=650&lines=BSc+(Hons)+Software+Engineering+%7C+Year+3;Full-Stack+Developer+%7C+Spring+Boot+%2B+MERN;Building+Real-World+Systems+from+the+Ground+Up;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Continuous+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=18&pause=1200&color=E4181F&center=true&vCenter=true&random=false&width=650&lines=BSc+(Hons)+Software+Engineering+%7C+Year+3;Full-Stack+Developer+%7C+Spring+Boot+%2B+MERN;Building+Real-World+Systems+from+the+Ground+Up;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Continuous+Learning)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚜️ THE OUTLAW'S CODE
+## 🕸️ THE HERO'S CODE
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║    ██████╗  ██████╗ ███╗   ██╗███████╗██╗ ██████╗                       ║
-║   ██╔════╝ ██╔═══██╗████╗  ██║██╔════╝██║██╔════╝                       ║
-║   ██║      ██║   ██║██╔██╗ ██║█████╗  ██║██║  ███╗                      ║
-║   ██║      ██║   ██║██║╚██╗██║██╔══╝  ██║██║   ██║                      ║
-║   ╚██████╗ ╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝                      ║
-║    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝                       ║
+║     ██████╗  ██████╗ ███╗   ██╗███████╗██╗ ██████╗                      ║
+║    ██╔════╝ ██╔═══██╗████╗  ██║██╔════╝██║██╔════╝                      ║
+║    ██║      ██║   ██║██╔██╗ ██║█████╗  ██║██║  ███╗                     ║
+║    ██║      ██║   ██║██║╚██╗██║██╔══╝  ██║██║   ██║                     ║
+║    ╚██████╗ ╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝                     ║
+║     ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝                      ║
 ║                                                                          ║
-║                    ─── SOFTWARE ENGINEER ───                             ║
+║                  🕷️  FRIENDLY NEIGHBORHOOD  🕷️                           ║
+║                  ─── SOFTWARE ENGINEER ───                               ║
 ║                                                                          ║
-║   "In a world full of bugs, be the one who writes the tests."           ║
+║   "With great code comes great responsibility."                          ║
 ║                                                                          ║
 ║   ┌────────────────────────────────────────────────────────────────┐     ║
-║   │  NAME         Deneshkar                                       │     ║
-║   │  OCCUPATION   Software Engineer                               │     ║
-║   │  SPECIALITY   Full-Stack Development                          │     ║
-║   │  LOCATION     Sri Lanka                                       │     ║
-║   │  STATUS       Actively Seeking Opportunities                  │     ║
+║   │  HERO IDENTITY                                                │     ║
+║   ├────────────────────────────────────────────────────────────────┤     ║
+║   │  NAME           Deneshkar                                     │     ║
+║   │  CODE NAME      Friendly Neighborhood Developer               │     ║
+║   │  SPECIALITY     Full-Stack Engineering                        │     ║
+║   │  BASE           Sri Lanka                                     │     ║
+║   │  STATUS         Actively Seeking Opportunities                │     ║
 ║   └────────────────────────────────────────────────────────────────┘     ║
 ║                                                                          ║
-║   STATS:                                                                 ║
-║   ───────────────────────────────────────────────────────                ║
-║   BACKEND MASTERY  ████████████████████████████░░░░  85%                 ║
-║   FRONTEND ARTISTRY████████████████████████░░░░░░░░  75%                 ║
-║   ALGORITHM WISDOM ████████████████████████░░░░░░░░  70%                 ║
-║   SYSTEM DESIGN    █████████████████████████████░░░  80%                 ║
-║   TEAM LEADERSHIP  ████████████████████████████████  90%                 ║
+║   ┌────────────────────────────────────────────────────────────────┐     ║
+║   │  HERO STATS                                                    │     ║
+║   ├────────────────────────────────────────────────────────────────┤     ║
+║   │                                                                │     ║
+║   │  SPIDER-SENSE (Algorithms)   ████████████████████░░░░  75%    │     ║
+║   │  WEB-SLINGING (Frontend)     ██████████████████████░░  80%    │     ║
+║   │  WALL-CRAWLING (Backend)     ████████████████████████  90%    │     ║
+║   │  SPIDER-STRENGTH (System)    ██████████████████████░░  80%    │     ║
+║   │  TEAM WORK (Collaboration)   ████████████████████████  95%    │     ║
+║   │                                                                │     ║
+║   └────────────────────────────────────────────────────────────────┘     ║
 ║                                                                          ║
-║   COMMITMENTS: 544    STARS: 9    ACHIEVEMENTS: 3                        ║
+║   🕸️ COMMITS: 552    ⭐ STARS: 9    🏆 ACHIEVEMENTS: 3                   ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -59,35 +66,35 @@
 
 ---
 
-## 🤠 THE GANG'S SKILLS
+## 🕷️ SPIDER-SKILLS
 
 <div align="center">
 
-### 🗡️ Languages
+### ⚔️ Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c&theme=dark" alt="languages"/>
 </p>
 
-### 🏹 Frontend
+### 🎭 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter&theme=dark" alt="frontend"/>
 </p>
 
-### 🔫 Backend
+### 🔧 Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="backend"/>
 </p>
 
-### 💰 Databases
+### 💎 Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="databases"/>
 </p>
 
-### 🧳 Tools & Supplies
+### 🧰 Tools & Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven&theme=dark" alt="tools"/>
@@ -97,33 +104,33 @@
 
 ---
 
-## 📋 WANTED POSTER (Current Pursuits)
+## 📰 DAILY BUGLE REPORTS (Currently)
 
 <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│                        ╔═══════════════════════╗                         │
-│                        ║      W  A  N  T  E  D ║                         │
-│                        ║    ACTIVE QUESTS       ║                         │
-│                        ╚═══════════════════════╝                         │
+║   📰 ════════════════════════════════════════════════════════════ 📰   ║
+║   ║                    DAILY BUGLE - EXTRA!                      ║   ║
+║   ║              "Friendly Neighborhood Dev Strikes Again"       ║   ║
+║   📰 ════════════════════════════════════════════════════════════ 📰   ║
 │                                                                          │
 │   ┌──────────────────────────────────────────────────────────────────┐   │
 │   │                                                                  │   │
-│   │  ⚒️  CURRENTLY BUILDING                                         │   │
+│   │  🕸️  CURRENTLY SPINNING WEBS (Building)                         │   │
 │   │      Production-grade portfolio projects                         │   │
 │   │      └─ Sahana Photocopy System | FoodFlow | MediAssist AI      │   │
 │   │                                                                  │   │
-│   │  📚  CURRENTLY LEARNING                                          │   │
+│   │  📚  TRAINING ARC (Learning)                                     │   │
 │   │      Software Engineering Principles · System Design · DSA       │   │
 │   │      └─ Backend Architecture · Agentic AI Systems               │   │
 │   │                                                                  │   │
-│   │  🎯  LOOKING FOR                                                 │   │
+│   │  🎯  LOOKING FOR TEAM-UPS (Opportunities)                       │   │
 │   │      Software Engineering Internship                              │   │
 │   │      └─ Open to Collaborations & Open Source Contributions      │   │
 │   │                                                                  │   │
-│   │  🔥  CURRENTLY IMPROVING                                         │   │
+│   │  🔥  POWERING UP (Improving)                                     │   │
 │   │      UI/UX · Backend Architecture · AI Systems                  │   │
 │   │      └─ Building Real-World Systems from the Ground Up          │   │
 │   │                                                                  │   │
@@ -136,42 +143,46 @@
 
 ---
 
-## 📊 THE DUTCH'S LEDGER (Analytics)
+## 🕸️ WEB ANALYTICS (Spider-Verse Stats)
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&border_radius=8&ring=c9a959&fire=c9a959&currStreakLabel=c9a959&background=0d1117&stroke=1a1a2e&sideLabels=d4c5a9&currStreakNum=ffffff&sideNums=ffffff" alt="Dutch's Ledger"/>
+<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&border_radius=8&ring=E4181F&fire=E4181F&currStreakLabel=E4181F&background=1a1a1a&stroke=003DA5&sideLabels=FFD700&currStreakNum=ffffff&sideNums=ffffff" alt="Web Analytics"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Camp Contribution Map" width="100%"/>
+<img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Spider-Verse Contribution Map" width="100%"/>
 
 </div>
 
 ---
 
-## 🎒 ARTHUR'S PROVISIONS (Featured Projects)
+## 🎭 SPIDER-VERSE PROJECTS
 
 <div align="center">
 
-### ⚔️ PROJECT 01 — Sahana Photocopy Shop Management System
+### 🕸️ PROJECT 01 — Sahana Photocopy Shop Management System
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│  TYPE:    Full-Stack Web Application               QUALITY: ★★★★★        │
-│  STACK:   React · Vite · Tailwind · Node.js · MongoDB                   │
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
+║   ║                    SPIDER-VERSE FILE #001                      ║   ║
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
 │                                                                          │
-│  ─────────────────────────────────────────────────────────────────────── │
+│   TYPE:    Full-Stack Web Application              THREAT LEVEL: ★★★★★   │
+│   STACK:   React · Vite · Tailwind · Node.js · MongoDB                  │
 │                                                                          │
-│  ✦ JWT Auth + Role-Based Access (Guest / Customer / Admin)              │
-│  ✦ Product catalog, Cart, Orders & Print Request workflow               │
-│  ✦ Admin Dashboard with revenue & low-stock analytics                   │
-│  ✦ AI-assisted print option suggestions module                          │
+│   ───────────────────────────────────────────────────────────────────────│
+│                                                                          │
+│   ✦ JWT Auth + Role-Based Access (Guest / Customer / Admin)             │
+│   ✦ Product catalog, Cart, Orders & Print Request workflow              │
+│   ✦ Admin Dashboard with revenue & low-stock analytics                  │
+│   ✦ AI-assisted print option suggestions module                         │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -181,15 +192,19 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│  TYPE:    Cross-Platform Mobile + Web App         QUALITY: ★★★★☆        │
-│  STACK:   React Native (Expo) · Node.js · MongoDB Atlas                 │
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
+║   ║                    SPIDER-VERSE FILE #002                      ║   ║
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
 │                                                                          │
-│  ─────────────────────────────────────────────────────────────────────── │
+│   TYPE:    Cross-Platform Mobile + Web App        THREAT LEVEL: ★★★★☆   │
+│   STACK:   React Native (Expo) · Node.js · MongoDB Atlas                │
 │                                                                          │
-│  ✦ Role-based access control (Admin / User)                             │
-│  ✦ Cart, Orders, Payments & Reviews modules                             │
-│  ✦ Real-time data handling + Admin Dashboard                            │
-│  ✦ Cross-platform: Web & Mobile support                                 │
+│   ───────────────────────────────────────────────────────────────────────│
+│                                                                          │
+│   ✦ Role-based access control (Admin / User)                            │
+│   ✦ Cart, Orders, Payments & Reviews modules                            │
+│   ✦ Real-time data handling + Admin Dashboard                           │
+│   ✦ Cross-platform: Web & Mobile support                                │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -199,15 +214,19 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│  TYPE:    Enterprise-Grade Backend App            QUALITY: ★★★★★        │
-│  STACK:   Java · Spring Boot · Thymeleaf · MySQL                        │
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
+║   ║                    SPIDER-VERSE FILE #003                      ║   ║
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
 │                                                                          │
-│  ─────────────────────────────────────────────────────────────────────── │
+│   TYPE:    Enterprise-Grade Backend App           THREAT LEVEL: ★★★★★   │
+│   STACK:   Java · Spring Boot · Thymeleaf · MySQL                       │
 │                                                                          │
-│  ✦ Session-based Auth + Role-based Access (User / Admin)                │
-│  ✦ Book catalog, Borrow/Return flow & stock management                  │
-│  ✦ Overdue fine generation & Admin fine payment handling                │
-│  ✦ Scheduled tasks for due-date reminders & notifications               │
+│   ───────────────────────────────────────────────────────────────────────│
+│                                                                          │
+│   ✦ Session-based Auth + Role-based Access (User / Admin)               │
+│   ✦ Book catalog, Borrow/Return flow & stock management                 │
+│   ✦ Overdue fine generation & Admin fine payment handling               │
+│   ✦ Scheduled tasks for due-date reminders & notifications              │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -217,15 +236,19 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│  TYPE:    Production Agentic AI System            QUALITY: ★★★★★        │
-│  STACK:   Google ADK · Multi-Agent AI · Python · Groq LLM               │
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
+║   ║                    SPIDER-VERSE FILE #004                      ║   ║
+║   🕸️ ════════════════════════════════════════════════════════════ 🕸️   ║
 │                                                                          │
-│  ─────────────────────────────────────────────────────────────────────── │
+│   TYPE:    Production Agentic AI System           THREAT LEVEL: ★★★★★   │
+│   STACK:   Google ADK · Multi-Agent AI · Python · Groq LLM              │
 │                                                                          │
-│  ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine, etc.)         │
-│  ✦ Real-time symptom triage with severity flags & escalation            │
-│  ✦ Step-by-step First Aid guidance with Text-to-Speech                  │
-│  ✦ Medical Lab Report Summariser with biomarker dashboard               │
+│   ───────────────────────────────────────────────────────────────────────│
+│                                                                          │
+│   ✦ Multi-Agent Orchestrator (Triage, First Aid, Medicine, etc.)        │
+│   ✦ Real-time symptom triage with severity flags & escalation           │
+│   ✦ Step-by-step First Aid guidance with Text-to-Speech                 │
+│   ✦ Medical Lab Report Summariser with biomarker dashboard              │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -234,25 +257,25 @@
 
 ---
 
-## 🏆 DEAD EYE MASTERY (Engineering Competencies)
+## 🦸 SPIDER-POWERS (Engineering Competencies)
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                       DEAD EYE MASTERY UNLOCKED                          ║
+║                    🕸️ SPIDER-POWERS UNLOCKED 🕸️                         ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   🔌 API GUNSLINGER       REST APIs · MVC · Spring Boot · Express       ║
-║   🔐 SECURITY OUTLAW      JWT Auth · bcrypt · RBAC                      ║
-║   🗃️ DATA TRADER          MongoDB · MySQL · Schema Design               ║
-║   🏗️ SYSTEM ARCHITECT     Design Patterns · Microservices · Clean       ║
-║   🛠️ CODE SHERIFF         Git · Code Review · Debugging                 ║
-║   🎨 UI ARTISAN           Responsive UI · Component Design · UX        ║
-║   🤖 AI PIONEER           Google ADK · Multi-Agent · LLM (Groq)        ║
-║   📐 CS BUFFALO HUNTER    DSA · OOP · DBMS · OS · SE Principles        ║
+║   🔌 WEB-SHOOTER (API Design)      REST APIs · MVC · Spring Boot        ║
+║   🔐 SPIDER-SENSE (Security)       JWT Auth · bcrypt · RBAC             ║
+║   🗃️ SPIDER-MANAGE (Data)          MongoDB · MySQL · Schema Design      ║
+║   🏗️ SPIDER-MOBILE (Architecture)  Design Patterns · Microservices      ║
+║   🛠️ SPIDER-REPAIR (Engineering)   Git · Code Review · Debugging        ║
+║   🎨 SPIDER-SUIT (Frontend)        Responsive UI · UX Design            ║
+║   🤖 SPIDER-BOT (AI/ML)            Google ADK · Multi-Agent · LLM       ║
+║   📐 SPIDER-MATH (CS Fundamentals) DSA · OOP · DBMS · OS · SE           ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -261,12 +284,15 @@
 
 ---
 
-## 💀 UNFORGIVEN CODE (Philosophy)
+## 💬 UNCLE BEN'S WISDOM (Philosophy)
 
 <div align="center">
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│   "With great power comes great responsibility."                         │
+│                         — Uncle Ben                                       │
 │                                                                          │
 │   "A good software engineer doesn't just write code —                    │
 │    they architect solutions that stand the test of time."               │
@@ -284,13 +310,13 @@
 
 ---
 
-## 🍺 THE SALOON (Connect)
+## 🕸️ JOIN THE SPIDER-VERSE (Connect)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-c9a959?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1209)](https://github.com/Deneshkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1209)](https://www.linkedin.com/in/deneshkar-punyamoorthy-450931350)
-[![Email](https://img.shields.io/badge/Email-Contact-c9a959?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1209)](mailto:deneshkar015@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deneshkar-E4181F?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Deneshkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-003DA5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/deneshkar-punyamoorthy-450931350)
+[![Email](https://img.shields.io/badge/Email-Contact-E4181F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:deneshkar015@gmail.com)
 
 </div>
 
@@ -298,13 +324,13 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=c9a959&style=for-the-badge&label=VISITORS&abbreviated=true" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Deneshkar&color=E4181F&style=for-the-badge&label=SPIDEY+VISITORS&abbreviated=true" alt="spidey visitors"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1209,50:2d1f0e,100:1a1209&height=140&section=footer&animation=fadeIn" alt="Camp"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:E4181F,100:003DA5&height=140&section=footer&animation=fadeIn" alt="Spider-Man Footer"/>
 
 </div>
 
@@ -313,9 +339,9 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                    I GAVE YOU ALL I HAD                                  ║
+║                   🕷️ FRIENDLY NEIGHBORHOOD DEVELOPER 🕷️                 ║
 ║                                                                          ║
-║              — But the code keeps on living.                             ║
+║              "Your Friendly Neighborhood Software Engineer"              ║
 ║                                                                          ║
 ║                    Built by Deneshkar                                    ║
 ║              BSc (Hons) Software Engineering                            ║
