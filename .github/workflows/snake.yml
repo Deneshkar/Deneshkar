@@ -23,7 +23,7 @@ jobs:
           github_user_name: Deneshkar
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-dimmed&color_snake=#e94560&color_d0=#161b22&color_d1=#1a2332&color_d2=#1f2d40&color_d3=#253750&color_d4=#2d4565
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v4
