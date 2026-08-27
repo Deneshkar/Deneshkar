@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&border_radius=8&ring=E4181F&fire=E4181F&currStreakLabel=E4181F&background=1a1a1a&stroke=003DA5&sideLabels=FFD700&currStreakNum=ffffff&sideNums=ffffff" alt="Web Analytics"/>
+<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&ring=E4181F&fire=E4181F&currStreakLabel=E4181F" alt="Web Analytics"/>
 
 </div>
 
