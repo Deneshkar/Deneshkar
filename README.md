@@ -142,7 +142,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&border_radius=8&ring=c9a959&fire=c9a959&currStreakLabel=c9a959&background=1a1209&stroke=2d1f0e&sideLabels=d4c5a9&currStreakNum=ffffff&sideNums=ffffff" alt="Dutch's Ledger"/>
+<img src="https://streak-stats.demolab.com?user=Deneshkar&theme=dark&hide_border=true&border_radius=8&ring=c9a959&fire=c9a959&currStreakLabel=c9a959&background=0d1117&stroke=1a1a2e&sideLabels=d4c5a9&currStreakNum=ffffff&sideNums=ffffff" alt="Dutch's Ledger"/>
 
 </div>
 
