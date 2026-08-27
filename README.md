@@ -143,14 +143,6 @@ currently:
 
 </div>
 
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deneshkar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Deneshkar/Deneshkar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
