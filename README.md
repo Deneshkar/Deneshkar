@@ -120,7 +120,7 @@
 ║   │                                                                  │   ║
 ║   │  🕸️  CURRENTLY SPINNING WEBS (Building)                          │   ║
 ║   │      Production-grade portfolio projects                         │   ║
-║   │      └─ Sahana Photocopy System | FoodFlow | MediAssist AI       │   ║
+║   │      └─ Sahana | FoodFlow | MediAssist AI | Customer Churn AI    │   ║
 ║   │                                                                  │   ║
 ║   │  📚  TRAINING ARC (Learning)                                      │   ║
 ║   │      Software Engineering Principles · System Design · DSA       │   ║
@@ -249,6 +249,28 @@
 ║   ✦ Real-time symptom triage with severity flags & escalation            ║
 ║   ✦ Step-by-step First Aid guidance with Text-to-Speech                  ║
 ║   ✦ Medical Lab Report Summariser with biomarker dashboard               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+### 📊 PROJECT 05 — Customer Churn AI · Prediction & Explainability System
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+║   ║                  SPIDER-VERSE FILE #005                      ║       ║
+║   🕸️ ═══════════════════════════════════════════════════════════════ 🕸️  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   TYPE:    Machine Learning & XAI Platform        THREAT LEVEL: ★★★★★    ║
+║   STACK:   Python · Scikit-learn · XGBoost · SHAP · Streamlit            ║
+║                                                                          ║
+║   ───────────────────────────────────────────────────────────────────────║
+║                                                                          ║
+║   ✦ End-to-end ML pipeline with class imbalance handling & tuning        ║
+║   ✦ Explainable AI (SHAP) for transparent, feature-level reasoning       ║
+║   ✦ Interactive Streamlit analytics dashboard & real-time predictions    ║
+║   ✦ Multi-metric evaluation (ROC-AUC, Precision-Recall, F1)              ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
